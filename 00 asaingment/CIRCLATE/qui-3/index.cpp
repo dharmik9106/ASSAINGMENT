@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    return 0;
+
         for (int i=5; i>=1; i--)
         {
              
