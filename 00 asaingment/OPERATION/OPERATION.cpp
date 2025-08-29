@@ -124,7 +124,7 @@ int main()
 
     do
     {
-        cout << "\n--- Linked List Menu ---" << endl;
+      
         cout << "1. Added Node" << endl;
         cout << "2. Insert at Beginning" << endl;
         cout << "3. Search" << endl;
